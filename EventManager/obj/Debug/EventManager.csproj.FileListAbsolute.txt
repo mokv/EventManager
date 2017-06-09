@@ -1,0 +1,12 @@
+D:\Projects\Visual Studio\EventManager\EventManager\bin\Debug\EventManager.exe.config
+D:\Projects\Visual Studio\EventManager\EventManager\bin\Debug\EventManager.exe
+D:\Projects\Visual Studio\EventManager\EventManager\bin\Debug\EventManager.pdb
+D:\Projects\Visual Studio\EventManager\EventManager\bin\Debug\EntityFramework.dll
+D:\Projects\Visual Studio\EventManager\EventManager\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\Visual Studio\EventManager\EventManager\bin\Debug\EntityFramework.xml
+D:\Projects\Visual Studio\EventManager\EventManager\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\Visual Studio\EventManager\EventManager\obj\Debug\EventManager.exe
+D:\Projects\Visual Studio\EventManager\EventManager\obj\Debug\EventManager.pdb
+D:\Projects\Visual Studio\EventManager\EventManager\bin\Debug\EventsManager.mdf
+D:\Projects\Visual Studio\EventManager\EventManager\bin\Debug\EventsManager_log.ldf
+D:\Projects\Visual Studio\EventManager\EventManager\obj\Debug\EventManager.csprojResolveAssemblyReference.cache
